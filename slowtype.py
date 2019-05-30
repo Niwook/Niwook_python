@@ -1,5 +1,5 @@
 #! /usr/bin/python
-# slowcat --- Imprime un archivo lentamente
+# slowtype --- Imprime un archivo léntamente
 
 # Author: Niwook
 # Created: 30/05/2019
@@ -34,10 +34,6 @@ def iter():
 while True:
       try:
           text_in = input()
-          #longitud = len(text_in)
-          #print(longitud)
-          #text_lines = text_in.splitlines()
-          #print (text_lines)
           print('')
           iter()
 
